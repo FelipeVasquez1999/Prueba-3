@@ -1,6 +1,8 @@
-usuario: harold	
+usuarioAdmin: harold	
 contraseña: romerogb13
 maquina virtual : MuebleriaWeb
+usuario normal: feliepe
+Contraseña: Pipe1423
 
 integrantes del grupo: 
 harold romero
